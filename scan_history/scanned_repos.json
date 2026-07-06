@@ -1329,8 +1329,148 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "gurkiratsingh-create/RiskPulse-AI-Project-Risk-Intelligence-Platform": {
+      "first_scan": "2026-07-06 01:46:56",
+      "last_scan": "2026-07-06 01:46:56",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "mxoonka123/my-telegram-bot": {
+      "first_scan": "2026-07-06 01:47:37",
+      "last_scan": "2026-07-06 01:47:37",
+      "findings_count": 6,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "thx114/qq.py": {
+      "first_scan": "2026-07-06 01:47:51",
+      "last_scan": "2026-07-06 01:47:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "doanht4655/Dinfjxifkdkldlfkfjhwy373773": {
+      "first_scan": "2026-07-06 01:47:58",
+      "last_scan": "2026-07-06 01:47:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "SharanSapkota/measurement": {
+      "first_scan": "2026-07-06 01:48:01",
+      "last_scan": "2026-07-06 01:48:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Xen0ph0n/VirusTotal_API_Tool": {
+      "first_scan": "2026-07-06 01:48:05",
+      "last_scan": "2026-07-06 01:48:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "nekocode/doubanfm-py": {
+      "first_scan": "2026-07-06 01:48:11",
+      "last_scan": "2026-07-06 01:48:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "prusa3d/PrusaControl": {
+      "first_scan": "2026-07-06 01:49:23",
+      "last_scan": "2026-07-06 01:49:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "fuffenz/ha-sensor-sl": {
+      "first_scan": "2026-07-06 01:49:27",
+      "last_scan": "2026-07-06 01:49:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "liamjvs/intelligent-octopus-scheduler": {
+      "first_scan": "2026-07-06 01:49:32",
+      "last_scan": "2026-07-06 01:49:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ThemosTsikas/PhotoPolarAlign": {
+      "first_scan": "2026-07-06 01:49:54",
+      "last_scan": "2026-07-06 01:49:54",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "kstep/pushybullet": {
+      "first_scan": "2026-07-06 01:50:04",
+      "last_scan": "2026-07-06 01:50:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "the-deepnet/ddos": {
+      "first_scan": "2026-07-06 01:50:25",
+      "last_scan": "2026-07-06 01:50:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "FreeRabbits/KarotzFiles": {
+      "first_scan": "2026-07-06 01:50:40",
+      "last_scan": "2026-07-06 01:50:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "nccgroup/cq": {
+      "first_scan": "2026-07-06 01:50:48",
+      "last_scan": "2026-07-06 01:50:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ofeklevin/dropcatch": {
+      "first_scan": "2026-07-06 01:50:53",
+      "last_scan": "2026-07-06 01:50:53",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "CamiloCisera/Blog": {
+      "first_scan": "2026-07-06 01:51:26",
+      "last_scan": "2026-07-06 01:51:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Adarshagupta/Infinity-Chat": {
+      "first_scan": "2026-07-06 01:52:38",
+      "last_scan": "2026-07-06 01:52:38",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "schollz/prevent-link-rot": {
+      "first_scan": "2026-07-06 01:53:11",
+      "last_scan": "2026-07-06 01:53:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "xtai/Real-Time-Satellite-Tracking": {
+      "first_scan": "2026-07-06 01:53:29",
+      "last_scan": "2026-07-06 01:53:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 190,
-  "last_updated": "2026-07-03 15:01:32"
+  "total_scanned": 210,
+  "last_updated": "2026-07-06 01:53:29"
 }
