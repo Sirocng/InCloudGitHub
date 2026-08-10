@@ -4577,8 +4577,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "nastechai/Updates": {
+      "first_scan": "2026-08-10 04:16:08",
+      "last_scan": "2026-08-10 04:16:08",
+      "findings_count": 6,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "mehdidotesk73/forge-project-example-trainable-ai-chat": {
+      "first_scan": "2026-08-10 04:16:09",
+      "last_scan": "2026-08-10 04:16:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 654,
-  "last_updated": "2026-08-09 03:53:56"
+  "total_scanned": 656,
+  "last_updated": "2026-08-10 04:16:09"
 }
