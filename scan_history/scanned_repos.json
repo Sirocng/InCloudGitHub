@@ -4647,8 +4647,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "inmostfly/wechat_astrbot": {
+      "first_scan": "2026-08-16 02:50:47",
+      "last_scan": "2026-08-16 02:50:47",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "zdragg/museum_bot": {
+      "first_scan": "2026-08-16 02:51:12",
+      "last_scan": "2026-08-16 02:51:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Andaol7875/Reddit-ToolAB": {
+      "first_scan": "2026-08-16 02:51:29",
+      "last_scan": "2026-08-16 02:51:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 664,
-  "last_updated": "2026-08-15 02:55:17"
+  "total_scanned": 667,
+  "last_updated": "2026-08-16 02:51:29"
 }
