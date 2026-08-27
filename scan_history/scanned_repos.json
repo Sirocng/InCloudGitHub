@@ -4864,8 +4864,50 @@
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "NulvoraMC/NulvoraNET": {
+      "first_scan": "2026-08-27 12:06:14",
+      "last_scan": "2026-08-27 12:06:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "aevrin-projects/aevrin-mcp-scanner": {
+      "first_scan": "2026-08-27 12:16:28",
+      "last_scan": "2026-08-27 12:16:28",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "KGRddhs/smartcompare-backend": {
+      "first_scan": "2026-08-27 12:38:31",
+      "last_scan": "2026-08-27 12:38:31",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "NiniMerabishvili/model-quality-floor": {
+      "first_scan": "2026-08-27 12:38:31",
+      "last_scan": "2026-08-27 12:38:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "rodneysilva/rag-llama": {
+      "first_scan": "2026-08-27 12:38:32",
+      "last_scan": "2026-08-27 12:38:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "wubin1836/ai-hive-agent-skills": {
+      "first_scan": "2026-08-27 12:38:32",
+      "last_scan": "2026-08-27 12:38:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 695,
-  "last_updated": "2026-08-24 03:06:24"
+  "total_scanned": 701,
+  "last_updated": "2026-08-27 12:38:32"
 }
