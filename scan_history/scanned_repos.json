@@ -5606,8 +5606,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "lichao-sun/Mora": {
+      "first_scan": "2026-08-31 07:48:45",
+      "last_scan": "2026-08-31 07:48:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Mingrui-Li/Qwen-VL-Lora-Model": {
+      "first_scan": "2026-08-31 07:48:58",
+      "last_scan": "2026-08-31 07:48:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "yoheinakajima/instagraph": {
+      "first_scan": "2026-08-31 07:49:23",
+      "last_scan": "2026-08-31 07:49:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AetherCortex/Llama-X": {
+      "first_scan": "2026-08-31 07:49:29",
+      "last_scan": "2026-08-31 07:49:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "leobertolazzi/meta-learning-logic": {
+      "first_scan": "2026-08-31 07:49:45",
+      "last_scan": "2026-08-31 07:49:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "openai/web-crawl-q-and-a-example": {
+      "first_scan": "2026-08-31 07:49:49",
+      "last_scan": "2026-08-31 07:49:49",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Geargabs/Gerenciador-De-Projetos": {
+      "first_scan": "2026-08-31 07:50:00",
+      "last_scan": "2026-08-31 07:50:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "tamanna456760-it/Tamanna-": {
+      "first_scan": "2026-08-31 07:58:21",
+      "last_scan": "2026-08-31 07:58:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "maszhongming/Multi-LoRA-Composition": {
+      "first_scan": "2026-08-31 07:58:47",
+      "last_scan": "2026-08-31 07:58:47",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "AgentOps-AI/Jaiqu": {
+      "first_scan": "2026-08-31 07:59:17",
+      "last_scan": "2026-08-31 07:59:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "beeevita/EvoPrompt": {
+      "first_scan": "2026-08-31 08:02:29",
+      "last_scan": "2026-08-31 08:02:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "coinse/libro": {
+      "first_scan": "2026-08-31 08:13:05",
+      "last_scan": "2026-08-31 08:13:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "LehengTHU/Agent4Rec": {
+      "first_scan": "2026-08-31 08:13:05",
+      "last_scan": "2026-08-31 08:13:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "devnamdev2003/chatgptapi": {
+      "first_scan": "2026-08-31 08:13:05",
+      "last_scan": "2026-08-31 08:13:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Reason-Wang/NAT": {
+      "first_scan": "2026-08-31 08:13:05",
+      "last_scan": "2026-08-31 08:13:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "linjungz/chat-with-your-doc": {
+      "first_scan": "2026-08-31 08:13:06",
+      "last_scan": "2026-08-31 08:13:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ComfyUI-Kelin/ComfyUI-LLMs-Toolkit": {
+      "first_scan": "2026-08-31 08:13:06",
+      "last_scan": "2026-08-31 08:13:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nat/natbot": {
+      "first_scan": "2026-08-31 08:13:06",
+      "last_scan": "2026-08-31 08:13:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Luoji-zju/Agents4PLC_release": {
+      "first_scan": "2026-08-31 08:13:07",
+      "last_scan": "2026-08-31 08:13:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "yuh-zha/AlignScore": {
+      "first_scan": "2026-08-31 08:13:07",
+      "last_scan": "2026-08-31 08:13:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "hush-cd/HRDE": {
+      "first_scan": "2026-08-31 08:13:07",
+      "last_scan": "2026-08-31 08:13:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ml-stat-Sustech/Local-Perplexity-Ranking": {
+      "first_scan": "2026-08-31 08:13:07",
+      "last_scan": "2026-08-31 08:13:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cbh123/narrator": {
+      "first_scan": "2026-08-31 08:13:08",
+      "last_scan": "2026-08-31 08:13:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "YangLing0818/RPG-DiffusionMaster": {
+      "first_scan": "2026-08-31 08:13:08",
+      "last_scan": "2026-08-31 08:13:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "xlwang233/LLM-Mob": {
+      "first_scan": "2026-08-31 08:13:08",
+      "last_scan": "2026-08-31 08:13:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "som-shahlab/clinical_trial_patient_matching": {
+      "first_scan": "2026-08-31 08:13:09",
+      "last_scan": "2026-08-31 08:13:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "sanchit-gandhi/whisper-jax": {
+      "first_scan": "2026-08-31 08:13:09",
+      "last_scan": "2026-08-31 08:13:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BarryYin/chat-on-wechat": {
+      "first_scan": "2026-08-31 08:13:09",
+      "last_scan": "2026-08-31 08:13:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "FullStackWithLawrence/openai-embeddings": {
+      "first_scan": "2026-08-31 08:13:09",
+      "last_scan": "2026-08-31 08:13:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ray-project/llm-applications": {
+      "first_scan": "2026-08-31 08:13:10",
+      "last_scan": "2026-08-31 08:13:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "chaoshu1201/reasoning-and-agents-education": {
+      "first_scan": "2026-08-31 08:13:10",
+      "last_scan": "2026-08-31 08:13:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "tuandoviet1/icetest": {
+      "first_scan": "2026-08-31 08:13:10",
+      "last_scan": "2026-08-31 08:13:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "zzyking/Crop-and-Prompt": {
+      "first_scan": "2026-08-31 08:13:11",
+      "last_scan": "2026-08-31 08:13:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "danieldev0724/ai-writer": {
+      "first_scan": "2026-08-31 08:13:11",
+      "last_scan": "2026-08-31 08:13:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thang-dao/Qwen-VL": {
+      "first_scan": "2026-08-31 08:13:11",
+      "last_scan": "2026-08-31 08:13:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "wangjl1993/extract_human_attri": {
+      "first_scan": "2026-08-31 08:13:12",
+      "last_scan": "2026-08-31 08:13:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "yu1092831200/qwen": {
+      "first_scan": "2026-08-31 08:13:12",
+      "last_scan": "2026-08-31 08:13:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "chirag3084/ai_writer": {
+      "first_scan": "2026-08-31 08:13:12",
+      "last_scan": "2026-08-31 08:13:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Ablegka/aiwriter": {
+      "first_scan": "2026-08-31 08:13:12",
+      "last_scan": "2026-08-31 08:13:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Thamilenthi-Palanivelu/AI-Writer": {
+      "first_scan": "2026-08-31 08:13:13",
+      "last_scan": "2026-08-31 08:13:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "pnkvalavala/multivoice": {
+      "first_scan": "2026-08-31 08:13:13",
+      "last_scan": "2026-08-31 08:13:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "linzhiqiu/t2v_metrics": {
+      "first_scan": "2026-08-31 08:13:13",
+      "last_scan": "2026-08-31 08:13:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "allenai/persona-bias": {
+      "first_scan": "2026-08-31 08:13:14",
+      "last_scan": "2026-08-31 08:13:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cyber-tao/openai_api_playground": {
+      "first_scan": "2026-08-31 08:13:14",
+      "last_scan": "2026-08-31 08:13:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "microsoft/Text2Analysis": {
+      "first_scan": "2026-08-31 08:13:14",
+      "last_scan": "2026-08-31 08:13:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nimamahmoudi/LLMStreamlitDemoBasic": {
+      "first_scan": "2026-08-31 08:13:14",
+      "last_scan": "2026-08-31 08:13:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "eureka-research/Eureka": {
+      "first_scan": "2026-08-31 08:13:15",
+      "last_scan": "2026-08-31 08:13:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "access2justice/law-bot": {
+      "first_scan": "2026-08-31 08:13:15",
+      "last_scan": "2026-08-31 08:13:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "zayed-haque/Digital-Box": {
+      "first_scan": "2026-08-31 08:13:15",
+      "last_scan": "2026-08-31 08:13:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ChiYeungLaw/LLaMa-EasyFT": {
+      "first_scan": "2026-08-31 08:13:16",
+      "last_scan": "2026-08-31 08:13:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 801,
-  "last_updated": "2026-08-30 07:55:21"
+  "total_scanned": 851,
+  "last_updated": "2026-08-31 08:13:16"
 }
