@@ -6474,8 +6474,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "beacoder/python-agent-harness": {
+      "first_scan": "2026-09-08 06:40:00",
+      "last_scan": "2026-09-08 06:40:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Saksham-G9/LangchainKrishNaik": {
+      "first_scan": "2026-09-08 06:40:27",
+      "last_scan": "2026-09-08 06:40:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 925,
-  "last_updated": "2026-09-07 07:16:48"
+  "total_scanned": 927,
+  "last_updated": "2026-09-08 06:40:27"
 }
