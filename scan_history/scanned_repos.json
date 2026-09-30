@@ -6635,8 +6635,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "levineuwirth/proof-broker": {
+      "first_scan": "2026-09-30 10:11:51",
+      "last_scan": "2026-09-30 10:11:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 948,
-  "last_updated": "2026-09-29 08:18:52"
+  "total_scanned": 949,
+  "last_updated": "2026-09-30 10:11:51"
 }
